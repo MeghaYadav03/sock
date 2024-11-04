@@ -125,3 +125,5 @@ int main() {
 }
 
 
+gcc server.c -o server.c
+./server.c
